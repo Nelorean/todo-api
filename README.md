@@ -2,6 +2,11 @@
 
 API REST para gerenciamento de tarefas com autenticação JWT, desenvolvida com Node.js, Express e MongoDB.
 
+## 🌐 Deploy
+
+API disponível em: https://todo-api-5nx0.onrender.com
+
+
 ## 🚀 Tecnologias
 
 - **Node.js** + **Express** — servidor e roteamento
