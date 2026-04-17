@@ -37,7 +37,7 @@ todo-api/
 
 ### Pré-requisitos
 - Node.js instalado
-- Conta no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) (gratuito)
+- Conta no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ### Passo a passo
 
